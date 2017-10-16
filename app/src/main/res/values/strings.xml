@@ -1,0 +1,21 @@
+<resources>
+<string name="app_name">Datos de Usuario</string>
+<string name= "nombreUsuario">Nombre completo</string>
+<string name= "fechanacimiento">Fecha de Nacimiento</string>
+<string name= "telefono">Telefono</string>
+<string name="email">Email</string>
+<string name= "descripcion">Descripcion de contacto</string>
+
+<string name="nombrepantalla2">CONFIRMACION DE DATOS</string>
+<string name="nombreusuario2">Nombre: </string>
+<string name= "fechanacimiento2">Fecha de Nacimiento: </string>
+<string name= "telefono2">Telefono: </string>
+<string name="email2">Email: </string>
+<string name= "descripcion2">Descripcion de contacto:</string>
+
+<string name="textoNombre">nombre</string>
+<string name="textofechaNacimiento">fecha</string>
+<string name="textotelefono">telefono</string>
+<string name="textoemail">email</string>
+<string name="textodescripcion">descripcion</string>
+</resources>
